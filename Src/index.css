@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Salesforce Sans";
+    src: url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.eot");
+    src: url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/0fadaa21fcac88ceee0bb8da992c221b.svg#Salesforce Sans")format("svg");
+}
+
+@font-face {
+  font-family: Avant;
+  src: url(../Assets/Fonts/AvantGuard.ttf);
+}
+
+@font-face {
+  font-family: Avant1;
+  src: url(../Assets/Fonts/avaswfte.ttf);
+}
+
+@font-face {
+  font-family: Avant2;
+  src: url(../Assets/Fonts/avbswfte.ttf);
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  font-family: "Salesforce Sans", "Gilroy";
+}
+
+.Heading{
+  font-family: Avant1;
+}
